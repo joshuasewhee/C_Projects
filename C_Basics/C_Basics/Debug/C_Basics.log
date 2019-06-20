@@ -1,0 +1,10 @@
+﻿  blorf.c
+  charManipulation.c
+  main.c
+D:\Git_JSH\C_Projects\C_Basics\C_Basics\blorf.c(28,12): warning C4098:  'instructions': 'void' function returning a value
+  table.c
+D:\Git_JSH\C_Projects\C_Basics\C_Basics\main.c(32,14): warning C4013:  'rightJustify' undefined; assuming extern returning int
+D:\Git_JSH\C_Projects\C_Basics\C_Basics\table.c(10,7): warning C4013:  'srand' undefined; assuming extern returning int
+  Generating Code...
+D:\Git_JSH\C_Projects\C_Basics\C_Basics\table.c(14,24): warning C4013:  'rand' undefined; assuming extern returning int
+  C_Basics.vcxproj -> D:\Git_JSH\C_Projects\C_Basics\Debug\C_Basics.exe
