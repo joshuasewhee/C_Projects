@@ -29,6 +29,10 @@ int main() {
 	*/
 	//instructions();
 
-	rightJustify("Haha", 20);
+	//rightJustify("Haha", 20);
+
+	// pointerString();
+
+	allocate_memory();
 	return 0;
 }

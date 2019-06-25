@@ -123,9 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="allocateMem.c" />
     <ClCompile Include="blorf.c" />
     <ClCompile Include="charManipulation.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="pointers.c" />
     <ClCompile Include="table.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

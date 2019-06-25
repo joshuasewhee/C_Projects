@@ -27,5 +27,11 @@
     <ClCompile Include="table.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pointers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="allocateMem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
